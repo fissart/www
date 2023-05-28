@@ -83,6 +83,7 @@
 \usepackage[]{amsmath}
 \title{Beamer Template}
 \author{TeXstudio Team}
+\begin{document}
 \begin{frame}[plain]
 	\maketitle
 \end{frame}
@@ -129,8 +130,7 @@
 		\int_{1}^{2}=\sum_{1}^{2}
 	\end{equation}
 \end{frame}
-
-\begin{document}\begin{document}	
+\begin{frame}
 	\begin{equation}\label{key}
 		\int_{1}^{2}=\sum_{1}^{2}
 	\end{equation}
@@ -140,6 +140,7 @@
 		\caption{}
 		\label{fig:screenshot003}
 	\end{figure}
+\end{frame}
 \begin{frame}
 \begin{equation}\label{key}
 \int_{1}^{2}=\sum_{1}^{2}
@@ -157,4 +158,5 @@
 \end{equation}
 
 \end{frame}
+\end{document}
 
