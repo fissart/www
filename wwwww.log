@@ -835,17 +835,6 @@ l.53 \end{frame}
                  [8
 
 ]
-Runaway argument?
-{equa \begin {fi \^^M\^^M\^^M\^^M\end {figu \begin {frame} 
-! Paragraph ended before \end  was complete.
-<to be read again> 
-                   \par 
-l.63 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 <screenshot002.png, id=255, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
