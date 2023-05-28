@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 09:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -807,43 +807,43 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 	\end{frame}
-                  [4
+l.29 \end{frame}
+                 [4
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 	\end{frame}
-                  [5
+l.34 \end{frame}
+                 [5
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 	\end{frame}
-                  [6
+l.39 \end{frame}
+                 [6
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 	\end{frame}
-                  [7
+l.44 \end{frame}
+                 [7
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 	\end{frame}
-                  [8
+l.49 \end{frame}
+                 [8
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.61 	\end{frame}
-                 
+l.61 \end{frame}
+                
 <screenshot003.png, id=254, 155.07938pt x 96.36pt>
 File: screenshot003.png Graphic file (type png)
 <use screenshot003.png>
@@ -855,8 +855,8 @@ Package pdftex.def Info: screenshot003.png  used on input line 61.
 ame identifier (name{key}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 	\end{frame}
-                 
+l.74 \end{frame}
+                
 <screenshot002.png, id=281, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
