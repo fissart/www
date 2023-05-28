@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 14:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -838,30 +838,33 @@ l.53 \end{frame}
                  [8
 
 ]
-<screenshot003.png, id=268, 155.07938pt x 96.36pt>
-File: screenshot003.png Graphic file (type png)
-<use screenshot003.png>
-Package pdftex.def Info: screenshot003.png  used on input line 60.
-(pdftex.def)             Requested size: 215.10196pt x 133.6562pt.
-pdfTeX warning (ext4): destination with the same identifier (name{key}) has bee
-n already used, duplicate ignored
+Runaway argument?
+{eqa \^^M\end {equa \begin {fi \^^M\^^M\^^M\^^M\end {figu \begin {fra\ETC.
+! Paragraph ended before \begin  was complete.
 <to be read again> 
-                   \relax 
-l.80 \end{frame}
-                
-<screenshot002.png, id=269, 155.07938pt x 96.36pt>
+                   \par 
+l.65 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<screenshot002.png, id=268, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
-Package pdftex.def Info: screenshot002.png  used on input line 80.
+Package pdftex.def Info: screenshot002.png  used on input line 68.
 (pdftex.def)             Requested size: 92.1879pt x 57.28122pt.
-pdfTeX warning (ext4): destination with the same identifier (name{www}) has bee
-n already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.80 \end{frame}
-                 [9
+! Too many }'s.
+\endframe ->\egroup 
+                    \begingroup \def \@currenvir {frame}
+l.79 \end{frame}
+                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
- <./screenshot003.png (PNG copy)>] [10 <./screenshot002.png (PNG copy)>]
+[9
+
+ <./screenshot002.png (PNG copy)>]
 \tf@nav=\write6
 \openout6 = `wwwww.nav'.
 
@@ -875,27 +878,39 @@ l.80 \end{frame}
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `wwwww.out' has not changed.
-(rerunfilecheck)             Checksum: 9D2630855B325A973F66E2E88E8EAAE5;178.
+
+Package rerunfilecheck Warning: File `wwwww.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `wwwww.out':
+(rerunfilecheck)             Before: 9D2630855B325A973F66E2E88E8EAAE5;178
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21611 strings out of 480247
- 422430 string characters out of 5896151
+ 21597 strings out of 480247
+ 422163 string characters out of 5896151
  667966 words of memory out of 5000000
- 39091 multiletter control sequences out of 15000+600000
+ 39080 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,19n,104p,402b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on wwwww.pdf (10 pages, 186396 bytes).
+pdfTeX warning (dest): name{Navigation10} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1} has been referenced but does not exist,
+ replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on wwwww.pdf (9 pages, 149301 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
- 27 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 330 PDF objects out of 1000 (max. 8388607)
+ 284 compressed objects within 3 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
