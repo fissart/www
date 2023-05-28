@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1685303233 "wwwww.tex" "wwwww.pdf" "wwwww" 1685303234
+["pdflatex"] 1685303244 "wwwww.tex" "wwwww.pdf" "wwwww" 1685303244
   "/etc/texmf/web2c/texmf.cnf" 1685279740 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -22,6 +22,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1248133631 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
@@ -192,10 +193,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685280363 1405652 bb1c9269d7de48ac4c4bea65a96724da ""
   "screenshot001.png" 1685281869 39040 c3e30d9793d2e43dee787e69d2b4ef3e ""
   "screenshot002.png" 1685282223 35062 15239f96d7b097dfe86ab5f67dbd5549 ""
-  "wwwww.aux" 1685303234 2931 a263538c74b2118f2494fedf9e2d0f08 "pdflatex"
-  "wwwww.nav" 1685303234 1011 83c4ff004b77303d878240d0bcc95e05 "pdflatex"
-  "wwwww.out" 1685303234 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "wwwww.tex" 1685303232 1333 3d1edd0261cc28499a3d2d893b78ef09 ""
+  "wwwww.aux" 1685303241 2931 47c3a5a18d05c026cc0273e7e9b1cf88 "pdflatex"
+  "wwwww.nav" 1685303241 1011 83c4ff004b77303d878240d0bcc95e05 "pdflatex"
+  "wwwww.out" 1685303241 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "wwwww.tex" 1685303242 1583 0063521ca4e0f75ccf29b5bc2511b84c ""
   (generated)
   "wwwww.aux"
   "wwwww.log"
