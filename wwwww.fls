@@ -1206,6 +1206,10 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm
+INPUT ./screenshot002.png
+INPUT screenshot002.png
+INPUT ./screenshot002.png
+INPUT ./screenshot002.png
 OUTPUT wwwww.nav
 OUTPUT wwwww.toc
 OUTPUT wwwww.snm

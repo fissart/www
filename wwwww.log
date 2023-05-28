@@ -849,10 +849,16 @@ l.54 \end{frame}
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 \end{frame}
-                 [10
+l.67 \end{frame}
+                
+<screenshot002.png, id=279, 155.07938pt x 96.36pt>
+File: screenshot002.png Graphic file (type png)
+<use screenshot002.png>
+Package pdftex.def Info: screenshot002.png  used on input line 67.
+(pdftex.def)             Requested size: 215.10196pt x 133.6562pt.
+[10
 
-]
+ <./screenshot002.png (PNG copy)>]
 \tf@nav=\write6
 \openout6 = `wwwww.nav'.
 
@@ -870,10 +876,10 @@ Package rerunfilecheck Info: File `wwwww.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21563 strings out of 480247
- 421319 string characters out of 5896151
- 665855 words of memory out of 5000000
- 39047 multiletter control sequences out of 15000+600000
+ 21575 strings out of 480247
+ 421576 string characters out of 5896151
+ 665879 words of memory out of 5000000
+ 39058 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,15n,104p,402b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -881,10 +887,10 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on wwwww.pdf (10 pages, 98256 bytes).
+Output written on wwwww.pdf (10 pages, 133578 bytes).
 PDF statistics:
- 329 PDF objects out of 1000 (max. 8388607)
- 288 compressed objects within 3 object streams
- 23 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 331 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
