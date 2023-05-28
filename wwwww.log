@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 14:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -847,43 +847,55 @@ pdfTeX warning (ext4): destination with the same identifier (name{key}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 \end{frame}
+l.82 \end{frame}
                 
+<screenshot002.png, id=269, 155.07938pt x 96.36pt>
+File: screenshot002.png Graphic file (type png)
+<use screenshot002.png>
+Package pdftex.def Info: screenshot002.png  used on input line 82.
+(pdftex.def)             Requested size: 92.1879pt x 57.28122pt.
+pdfTeX warning (ext4): destination with the same identifier (name{www}) has bee
+n already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.82 \end{frame}
+                 [9
 
-! LaTeX Error: File `Figures/' not found.
+ <./screenshot003.png (PNG copy)>] [10 <./screenshot002.png (PNG copy)>]
+\tf@nav=\write6
+\openout6 = `wwwww.nav'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \end{frame}
-                
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+\tf@toc=\write7
+\openout7 = `wwwww.toc'.
 
-! I can't write on file `|.aux'.
-\@include ...mmediate \openout \@partaux "#1.aux" 
-                                                  \immediate \write \@partau...
-l.86 \end{frame}
-                
-(Press Enter to retry, or Control-D to exit; default file extension is `.tex')
-Please type another output file name
-! Emergency stop.
-\@include ...mmediate \openout \@partaux "#1.aux" 
-                                                  \immediate \write \@partau...
-l.86 \end{frame}
-                
-*** (job aborted, file error in nonstop mode)
+\tf@snm=\write8
+\openout8 = `wwwww.snm'.
 
- 
+(./wwwww.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `wwwww.out' has not changed.
+(rerunfilecheck)             Checksum: 9D2630855B325A973F66E2E88E8EAAE5;178.
+ ) 
 Here is how much of TeX's memory you used:
- 21637 strings out of 480247
- 422760 string characters out of 5896151
- 667990 words of memory out of 5000000
- 39112 multiletter control sequences out of 15000+600000
+ 21611 strings out of 480247
+ 422430 string characters out of 5896151
+ 667966 words of memory out of 5000000
+ 39091 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,19n,104p,402b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on wwwww.pdf (10 pages, 186393 bytes).
+PDF statistics:
+ 361 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
