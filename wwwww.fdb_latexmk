@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1685295806 "wwwww.tex" "wwwww.pdf" "wwwww" 1685295807
+["pdflatex"] 1685295858 "wwwww.tex" "wwwww.pdf" "wwwww" 1685295859
   "/etc/texmf/web2c/texmf.cnf" 1685279740 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -25,6 +25,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1248133631 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb" 1248133631 25150 e0d09798d232ab9d00c5c0a8df6cc22d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb" 1248133631 25168 33771b85f45c82138dd7745db7092d1c ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -192,10 +193,10 @@
   "screenshot001.png" 1685281869 39040 c3e30d9793d2e43dee787e69d2b4ef3e ""
   "screenshot002.png" 1685282223 35062 15239f96d7b097dfe86ab5f67dbd5549 ""
   "screenshot003.png" 1685282240 35062 15239f96d7b097dfe86ab5f67dbd5549 ""
-  "wwwww.aux" 1685295807 3633 f805c32497acf1e63762aeff369b9e62 "pdflatex"
-  "wwwww.nav" 1685295807 1295 5b1e97f91e0c9b4932775c808cd21dc6 "pdflatex"
-  "wwwww.out" 1685295807 178 9d2630855b325a973f66e2e88e8eaae5 "pdflatex"
-  "wwwww.tex" 1685295803 1649 77d913dda9d1e402740d4709ce32f3f3 ""
+  "wwwww.aux" 1685295859 3633 f805c32497acf1e63762aeff369b9e62 "pdflatex"
+  "wwwww.nav" 1685295859 1295 5b1e97f91e0c9b4932775c808cd21dc6 "pdflatex"
+  "wwwww.out" 1685295859 178 9d2630855b325a973f66e2e88e8eaae5 "pdflatex"
+  "wwwww.tex" 1685295856 1661 3321e407473452db8f2f75f38654a343 ""
   (generated)
   "wwwww.aux"
   "wwwww.log"

@@ -7,7 +7,7 @@
 	\maketitle
 \end{frame}
 \begin{frame}{Frame Title}
-	% TODO: \usepackage{graphicx} required
+			% TODO: \usepackage{graphicx} required
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.7\linewidth]{screenshot001}
@@ -88,7 +88,7 @@
 	\maketitle
 \end{frame}
 \begin{frame}{Frame Title}
-	% TODO: \usepackage{graphicx} required
+																																																																																					% TODO: \usepackage{graphicx} required
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.7\linewidth]{screenshot001}
@@ -142,20 +142,20 @@
 	\end{figure}
 \end{frame}
 \begin{frame}
-\begin{equation}\label{key}
-\int_{1}^{2}=\sum_{1}^{2}
-\centering
-\includegraphics[width=0.3\linewidth]{screenshot002}
-\caption{}
-\label{fig:screenshot002}
-\end{figure}
+	\begin{equation}\label{key}
+		\int_{1}^{2}=\sum_{1}^{2}
+		\centering
+		\includegraphics[width=0.3\linewidth]{screenshot002}
+		\caption{}
+		\label{fig:screenshot002}
+	\end{figure}
 
 
-\section{wwwwwwwwwwwwwwwwwwwwwwwwwww}
-\begin{equation}
-	\frac{w}{w}	\int_{wwwwww}^{wwww}
-	\label{www}
-\end{equation}
+	\section{wwwwwwwwwwwwwwwwwwwwwwwwwww}
+	\begin{equation}
+		\frac{w}{w}	\int_{wwwwww}^{wwww}
+		\label{www}
+	\end{equation}
 
 \end{frame}
 \end{document}
