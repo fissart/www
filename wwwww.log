@@ -784,7 +784,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./wwwww.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<screenshot001.png, id=67, 135.50626pt x 90.3375pt>
+<screenshot001.png, id=69, 135.50626pt x 90.3375pt>
 File: screenshot001.png Graphic file (type png)
 <use screenshot001.png>
 Package pdftex.def Info: screenshot001.png  used on input line 23.
@@ -850,19 +850,6 @@ n already used, duplicate ignored
 l.86 \end{frame}
                 
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 ! LaTeX Error: File `Figures/' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -875,29 +862,6 @@ I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: \caption outside figure or table.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \end{frame}
-                
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.86 \end{frame}
-                
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
 <screenshot002.png, id=269, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
@@ -916,69 +880,14 @@ l.86 \end{frame}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[9
-
- <./screenshot003.png (PNG copy)>]
-
-! LaTeX Error: \begin{document} ended by \end{beamer@framepauses}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{www}) has bee
+n already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.86 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+                 [9
 
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.86 \end{frame}
-                
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\endbeamer@frameslide ...amer@framepauses}\egroup 
-                                                  \ifx \beamer@frametitle \@...
-l.86 \end{frame}
-                
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Undefined control sequence.
-\endbeamer@frameslide ...box \else \beamer@zoomer 
-                                                  \fi \beamer@undolabels \be...
-l.86 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: \begin{document} ended by \end{beamer@frameslide}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.86 \end{frame}
-                
-Things are pretty mixed up, but I think the worst is over.
-
-[10 <./screenshot002.png (PNG copy)>]
+ <./screenshot003.png (PNG copy)>] [10 <./screenshot002.png (PNG copy)>]
 \tf@nav=\write6
 \openout6 = `wwwww.nav'.
 
@@ -996,23 +905,23 @@ Package rerunfilecheck Info: File `wwwww.out' has not changed.
 (rerunfilecheck)             Checksum: 9D2630855B325A973F66E2E88E8EAAE5;178.
  ) 
 Here is how much of TeX's memory you used:
- 21654 strings out of 480247
- 423047 string characters out of 5896151
- 667966 words of memory out of 5000000
+ 21655 strings out of 480247
+ 423064 string characters out of 5896151
+ 667989 words of memory out of 5000000
  39122 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 99i,20n,104p,402b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,19n,104p,402b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on wwwww.pdf (10 pages, 186590 bytes).
+Output written on wwwww.pdf (10 pages, 186289 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 362 PDF objects out of 1000 (max. 8388607)
+ 313 compressed objects within 4 object streams
+ 28 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
