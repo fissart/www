@@ -5,24 +5,8 @@ entering extended mode
 **wwwww.tex
 (./wwwww.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21>
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \textsf{}
-             \documentclass{beamer}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--13
-[] 
- []
-
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/beam
+er/beamer.cls
 Document Class: beamer 2022/01/21 v3.65 A class for typesetting presentations
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/share
 /texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -462,31 +446,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/
 usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
-! Undefined control sequence.
-\set@color ...\@pdfcolorstack push{\current@color 
-                                                  }\aftergroup \reset@color 
-l.158 \onecolumn
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\set@color ...\@pdfcolorstack push{\current@color 
-                                                  }\aftergroup \reset@color 
-l.158 \onecolumn
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[1]) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) 
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/sh
+are/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/share/t
+exlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count302
 \beamer@lastskipcover=\skip50
 \beamer@trivlistdepth=\count303
@@ -819,15 +781,15 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./wwwww.nav) [2
+) (./wwwww.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<screenshot001.png, id=66, 135.50626pt x 90.3375pt>
+<screenshot001.png, id=62, 135.50626pt x 90.3375pt>
 File: screenshot001.png Graphic file (type png)
 <use screenshot001.png>
 Package pdftex.def Info: screenshot001.png  used on input line 19.
 (pdftex.def)             Requested size: 215.10196pt x 143.40709pt.
-[3
+[2
 
  <./screenshot001.png (PNG copy)>]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
@@ -839,68 +801,68 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4
+) [3
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \end{frame}
-                 [5
+l.29 	\end{frame}
+                  [4
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \end{frame}
-                 [6
+l.34 	\end{frame}
+                  [5
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 \end{frame}
-                 [7
+l.39 	\end{frame}
+                  [6
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 \end{frame}
-                 [8
+l.44 	\end{frame}
+                  [7
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{frame}
-                 [9
+l.49 	\end{frame}
+                  [8
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.61 \end{frame}
-                
-<screenshot003.png, id=257, 155.07938pt x 96.36pt>
+l.61 	\end{frame}
+                 
+<screenshot003.png, id=254, 155.07938pt x 96.36pt>
 File: screenshot003.png Graphic file (type png)
 <use screenshot003.png>
 Package pdftex.def Info: screenshot003.png  used on input line 61.
 (pdftex.def)             Requested size: 215.10196pt x 133.6562pt.
-[10
+[9
 
  <./screenshot003.png (PNG copy)>]pdfTeX warning (ext4): destination with the s
 ame identifier (name{key}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 \end{frame}
-                
-<screenshot002.png, id=284, 155.07938pt x 96.36pt>
+l.74 	\end{frame}
+                 
+<screenshot002.png, id=281, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
 Package pdftex.def Info: screenshot002.png  used on input line 74.
 (pdftex.def)             Requested size: 215.10196pt x 133.6562pt.
-[11
+[10
 
  <./screenshot002.png (PNG copy)>]
 \tf@nav=\write6
@@ -920,24 +882,21 @@ Package rerunfilecheck Info: File `wwwww.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21589 strings out of 480247
- 421855 string characters out of 5896151
- 665670 words of memory out of 5000000
- 39070 multiletter control sequences out of 15000+600000
+ 21587 strings out of 480247
+ 421833 string characters out of 5896151
+ 665902 words of memory out of 5000000
+ 39069 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,15n,104p,402b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation1} has been referenced but does not exi
-st, replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on wwwww.pdf (11 pages, 168836 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
+Output written on wwwww.pdf (10 pages, 168888 bytes).
 PDF statistics:
- 338 PDF objects out of 1000 (max. 8388607)
- 294 compressed objects within 3 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 334 PDF objects out of 1000 (max. 8388607)
+ 291 compressed objects within 3 object streams
+ 25 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
