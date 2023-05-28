@@ -63,10 +63,10 @@
 	\begin{equation}\label{key}
 		\int_{1}^{2}=\sum_{1}^{2}
 	\end{equation}
-	% TODO: \usepackage{graphicx} required
+% TODO: \usepackage{graphicx} required
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.3\linewidth]{screenshot002}
+		\includegraphics[width=0.7\linewidth]{screenshot002}
 		\caption{}
 		\label{fig:screenshot002}
 	\end{figure}
