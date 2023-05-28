@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -42,29 +42,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count185
 \l__pdf_internal_box=\box50
-) (./wwwww.aux
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-)
+) (./wwwww.aux)
 \openout1 = `wwwww.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1196,12 +1174,12 @@ l.47 	\end{equation}
                     
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 215 strings out of 480247
- 5320 string characters out of 5896151
+ 190 strings out of 480247
+ 4926 string characters out of 5896151
  289755 words of memory out of 5000000
- 18253 multiletter control sequences out of 15000+600000
+ 18228 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 24i,3n,34p,144b,76s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,3n,34p,134b,66s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
