@@ -1212,6 +1212,10 @@ INPUT ./screenshot003.png
 INPUT screenshot003.png
 INPUT ./screenshot003.png
 INPUT ./screenshot003.png
+INPUT ./screenshot002.png
+INPUT screenshot002.png
+INPUT ./screenshot002.png
+INPUT ./screenshot002.png
 OUTPUT wwwww.nav
 OUTPUT wwwww.toc
 OUTPUT wwwww.snm

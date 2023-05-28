@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1685302935 "wwwww.tex" "wwwww.pdf" "wwwww" 1685302935
+["pdflatex"] 1685302942 "wwwww.tex" "wwwww.pdf" "wwwww" 1685302942
   "/etc/texmf/web2c/texmf.cnf" 1685279740 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -191,11 +191,12 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1685280359 77930 dad7a7a153c57be8d26b82384a2548e8 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685280363 1405652 bb1c9269d7de48ac4c4bea65a96724da ""
   "screenshot001.png" 1685281869 39040 c3e30d9793d2e43dee787e69d2b4ef3e ""
+  "screenshot002.png" 1685282223 35062 15239f96d7b097dfe86ab5f67dbd5549 ""
   "screenshot003.png" 1685282240 35062 15239f96d7b097dfe86ab5f67dbd5549 ""
-  "wwwww.aux" 1685302932 3498 5794d24735de0949a542b31c1009cb0f "pdflatex"
-  "wwwww.nav" 1685302932 1201 4fb576f36b1630a6ad261f46c57ed450 "pdflatex"
-  "wwwww.out" 1685302932 178 9d2630855b325a973f66e2e88e8eaae5 "pdflatex"
-  "wwwww.tex" 1685302935 1540 99447b2f95b33c57a900c4828b8dc56a ""
+  "wwwww.aux" 1685302939 3498 e1f7a9ace9893d25f05e07ed151fb03f "pdflatex"
+  "wwwww.nav" 1685302939 1201 6cb24d8800d3f5ecaa8e5ccd7316d772 "pdflatex"
+  "wwwww.out" 1685302939 178 9d2630855b325a973f66e2e88e8eaae5 "pdflatex"
+  "wwwww.tex" 1685302939 1530 e3bf0b85ec5f2b93d51d081806b8172c ""
   (generated)
   "wwwww.aux"
   "wwwww.log"

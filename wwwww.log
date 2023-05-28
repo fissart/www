@@ -784,7 +784,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./wwwww.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<screenshot001.png, id=69, 135.50626pt x 90.3375pt>
+<screenshot001.png, id=67, 135.50626pt x 90.3375pt>
 File: screenshot001.png Graphic file (type png)
 <use screenshot001.png>
 Package pdftex.def Info: screenshot001.png  used on input line 23.
@@ -843,55 +843,37 @@ File: screenshot003.png Graphic file (type png)
 <use screenshot003.png>
 Package pdftex.def Info: screenshot003.png  used on input line 60.
 (pdftex.def)             Requested size: 215.10196pt x 133.6562pt.
-! Argument of \frame has an extra }.
-<inserted text> 
-                \par 
-l.70 ure}
-         
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-\par \centering ^^[[1;2B\includegraphics [width=0.3\linewidth ]{scree\ETC.
-! Paragraph ended before \frame was complete.
+pdfTeX warning (ext4): destination with the same identifier (name{key}) has bee
+n already used, duplicate ignored
 <to be read again> 
-                   \par 
-l.70 ure}
-         
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.70 ure}
-         
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-[9
-
- <./screenshot003.png (PNG copy)>]
-! Extra }, or forgotten \endgroup.
-\endframe ->\egroup 
-                    \begingroup \def \@currenvir {frame}
+                   \relax 
 l.78 \end{frame}
                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+<screenshot002.png, id=269, 155.07938pt x 96.36pt>
+File: screenshot002.png Graphic file (type png)
+<use screenshot002.png>
+Package pdftex.def Info: screenshot002.png  used on input line 78.
+(pdftex.def)             Requested size: 92.1879pt x 57.28122pt.
 
-[10]
+! LaTeX Error: \caption outside figure or table.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \end{frame}
+                
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+pdfTeX warning (ext4): destination with the same identifier (name{www}) has bee
+n already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.78 \end{frame}
+                 [9
+
+ <./screenshot003.png (PNG copy)>] [10 <./screenshot002.png (PNG copy)>]
 \tf@nav=\write6
 \openout6 = `wwwww.nav'.
 
@@ -901,49 +883,31 @@ deleted material, e.g., by typing `I$}'.
 \tf@snm=\write8
 \openout8 = `wwwww.snm'.
 
-
-! LaTeX Error: \begin{frame} on input line 64 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 (./wwwww.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `wwwww.out' has not changed.
 (rerunfilecheck)             Checksum: 9D2630855B325A973F66E2E88E8EAAE5;178.
- )
-(\end occurred inside a group at level 2)
-
-### semi simple group (level 2) entered at line 65 (\begingroup)
-### semi simple group (level 1) entered at line 64 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 21597 strings out of 480247
- 422166 string characters out of 5896151
+ 21610 strings out of 480247
+ 422439 string characters out of 5896151
  667966 words of memory out of 5000000
- 39079 multiletter control sequences out of 15000+600000
+ 39090 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 99i,20n,104p,402b,646s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on wwwww.pdf (10 pages, 150950 bytes).
+ 99i,19n,104p,402b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on wwwww.pdf (10 pages, 186201 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 310 compressed objects within 4 object streams
- 25 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 361 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
