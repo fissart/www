@@ -1,6 +1,6 @@
 INFO:  latexindent version 3.15, 2022-01-21, a script to indent .tex files
        latexindent lives here: /usr/share/texlive/texmf-dist/scripts/latexindent/
-       Sun May 28 12:12:38 2023
+       Sun May 28 12:12:40 2023
        Filename: wwwww.tex
 INFO:  Processing switches:
        -w|--overwrite: Overwrite mode active, will make a back up of wwwww.tex first
@@ -14,8 +14,9 @@ INFO:  YAML settings read: indentconfig.yaml or .indentconfig.yaml
 INFO:  Backup procedure (-w flag active):
        ./wwwww.bak0 already exists, incrementing by 1... (see maxNumberOfBackUps and onlyOneBackUp)
        ./wwwww.bak1 already exists, incrementing by 1... (see maxNumberOfBackUps and onlyOneBackUp)
-       copying wwwww.tex to ./wwwww.bak2
-       Backup file: ./wwwww.bak2
+       ./wwwww.bak2 already exists, incrementing by 1... (see maxNumberOfBackUps and onlyOneBackUp)
+       copying wwwww.tex to ./wwwww.bak3
+       Backup file: ./wwwww.bak3
        wwwww.tex will be overwritten after indentation
 INFO:  Phase 1: searching for objects
 INFO:  Phase 2: finding surrounding indentation
