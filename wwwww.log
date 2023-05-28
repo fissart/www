@@ -616,15 +616,6 @@ LaTeX Warning: Label `key' multiply defined.
 
 LaTeX Warning: Label `key' multiply defined.
 
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `www' multiply defined.
-
 )
 \openout1 = `wwwww.aux'.
 
@@ -787,7 +778,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./wwwww.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<screenshot001.png, id=67, 135.50626pt x 90.3375pt>
+<screenshot001.png, id=63, 135.50626pt x 90.3375pt>
 File: screenshot001.png Graphic file (type png)
 <use screenshot001.png>
 Package pdftex.def Info: screenshot001.png  used on input line 23.
@@ -841,7 +832,7 @@ l.53 \end{frame}
                  [8
 
 ]
-<screenshot003.png, id=268, 155.07938pt x 96.36pt>
+<screenshot003.png, id=264, 155.07938pt x 96.36pt>
 File: screenshot003.png Graphic file (type png)
 <use screenshot003.png>
 Package pdftex.def Info: screenshot003.png  used on input line 60.
@@ -899,10 +890,10 @@ you can ask a wizard to enlarge me.
 
  
 Here is how much of TeX's memory you used:
- 21591 strings out of 480247
- 422125 string characters out of 5896151
- 667967 words of memory out of 5000000
- 39079 multiletter control sequences out of 15000+600000
+ 21586 strings out of 480247
+ 422063 string characters out of 5896151
+ 667884 words of memory out of 5000000
+ 39075 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  5000i,19n,104p,402b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
