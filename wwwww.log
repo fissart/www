@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,7 +941,7 @@ Package pdftex.def Info: screenshot002.png  used on input line 76.
 
 Overfull \hbox (194.03955pt too wide) in paragraph at lines 76--76
 []\OT1/cmss/m/n/10.95 wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-wwwwwwwwww  
+wwwwwwwwww 
  []
 
 [10
@@ -975,7 +975,7 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on wwwww.pdf (10 pages, 169053 bytes).
+Output written on wwwww.pdf (10 pages, 169059 bytes).
 PDF statistics:
  334 PDF objects out of 1000 (max. 8388607)
  291 compressed objects within 3 object streams
