@@ -835,15 +835,24 @@ l.53 \end{frame}
                  [8
 
 ]
+! Undefined control sequence.
+l.58 \begi
+          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 <screenshot002.png, id=255, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
-Package pdftex.def Info: screenshot002.png  used on input line 66.
+Package pdftex.def Info: screenshot002.png  used on input line 70.
 (pdftex.def)             Requested size: 92.1879pt x 57.28122pt.
 ! Too many }'s.
 \endframe ->\egroup 
                     \begingroup \def \@currenvir {frame}
-l.77 \end{frame}
+l.81 \end{frame}
                 
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
