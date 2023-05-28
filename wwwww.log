@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -857,14 +857,16 @@ ame identifier (name{key}) has been already used, duplicate ignored
                    \relax 
 l.74 \end{frame}
                 
-<screenshot002.png, id=281, 155.07938pt x 96.36pt>
+<screenshot002.png, id=282, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
 Package pdftex.def Info: screenshot002.png  used on input line 74.
 (pdftex.def)             Requested size: 215.10196pt x 133.6562pt.
 [10
 
- <./screenshot002.png (PNG copy)>]
+ <./screenshot002.png (PNG copy)>] [11
+
+]
 \tf@nav=\write6
 \openout6 = `wwwww.nav'.
 
@@ -882,8 +884,8 @@ Package rerunfilecheck Info: File `wwwww.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21587 strings out of 480247
- 421833 string characters out of 5896151
+ 21589 strings out of 480247
+ 421852 string characters out of 5896151
  665902 words of memory out of 5000000
  39069 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
@@ -893,10 +895,10 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on wwwww.pdf (10 pages, 169048 bytes).
+Output written on wwwww.pdf (11 pages, 171267 bytes).
 PDF statistics:
- 334 PDF objects out of 1000 (max. 8388607)
- 291 compressed objects within 3 object streams
- 25 named destinations out of 1000 (max. 500000)
+ 361 PDF objects out of 1000 (max. 8388607)
+ 316 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
