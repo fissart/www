@@ -854,6 +854,14 @@ me{key}) has been already used, duplicate ignored
                    \relax 
 l.79 \end{frame}
                 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.79 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 <screenshot002.png, id=269, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
@@ -871,19 +879,6 @@ l.79 \end{frame}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-
-! Package amsmath Error: Multiple \label's: label 'key' will be lost.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -892,16 +887,8 @@ l.79 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Display math should end with $$.
-<to be read again> 
-                   \tex_par:D 
-l.79 \end{frame}
-                
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
 
-
-! LaTeX Error: \begin{equation} on input line 79 ended by \end{center}.
+! LaTeX Error: \begin{i} on input line 79 ended by \end{center}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1017,10 +1004,10 @@ Package rerunfilecheck Info: File `wwwww.out' has not changed.
 (rerunfilecheck)             Checksum: 9D2630855B325A973F66E2E88E8EAAE5;178.
  ) 
 Here is how much of TeX's memory you used:
- 21610 strings out of 480247
- 422437 string characters out of 5896151
+ 21611 strings out of 480247
+ 422456 string characters out of 5896151
  667943 words of memory out of 5000000
- 39090 multiletter control sequences out of 15000+600000
+ 39091 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,19n,104p,402b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1030,7 +1017,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on wwwww.pdf (10 pages, 186098 bytes).
+Output written on wwwww.pdf (10 pages, 186742 bytes).
 PDF statistics:
  361 PDF objects out of 1000 (max. 8388607)
  312 compressed objects within 4 object streams
