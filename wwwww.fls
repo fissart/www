@@ -1176,6 +1176,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT ./screenshot001.png
 INPUT screenshot001.png
 INPUT ./screenshot001.png
@@ -1207,7 +1208,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT ./screenshot002.png
 INPUT screenshot002.png
 INPUT ./screenshot002.png
