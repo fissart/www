@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.28)  28 MAY 2023 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -879,12 +879,12 @@ Package pdftex.def Info: screenshot002.png  used on input line 81.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `wwwww.out' has not changed.
-(rerunfilecheck)             Checksum: 0346159DF03CD5322BCE701B86AC3714;78.
+(rerunfilecheck)             Checksum: 9D2630855B325A973F66E2E88E8EAAE5;178.
  ) 
 Here is how much of TeX's memory you used:
  21612 strings out of 480247
  422455 string characters out of 5896151
- 666946 words of memory out of 5000000
+ 666967 words of memory out of 5000000
  39092 multiletter control sequences out of 15000+600000
  476182 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -894,7 +894,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on wwwww.pdf (10 pages, 178255 bytes).
+Output written on wwwww.pdf (10 pages, 178277 bytes).
 PDF statistics:
  356 PDF objects out of 1000 (max. 8388607)
  309 compressed objects within 4 object streams
