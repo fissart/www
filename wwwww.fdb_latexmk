@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1686449812 "wwwww.tex" "wwwww.pdf" "wwwww" 1686449814
+["lualatex"] 1686449826 "wwwww.tex" "wwwww.pdf" "wwwww" 1686449826
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -207,7 +207,7 @@
   "wwwww.aux" 1686449814 3175 b73c9eb30c8abfce8e8c1527bbd49425 "lualatex"
   "wwwww.nav" 1686449814 1202 2609ff30d216a8e299c6c78ce75de3cb "lualatex"
   "wwwww.out" 1686449813 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "wwwww.tex" 1686449809 2036 8c23cc1df73eb624baad3d7b80e31e7b ""
+  "wwwww.tex" 1686449825 2045 3ba79a614d359e1f0870c01a4a18cafd ""
   (generated)
   "wwwww.aux"
   "wwwww.log"
