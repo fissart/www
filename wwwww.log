@@ -835,57 +835,32 @@ warning  (pdf backend): ignoring duplicate destination with the name 'www'
 [9
 
 <./screenshot002.png>]
-! Argument of \beamer@push@begins has an extra }.
-<inserted text> 
-\par 
-l.82 \end{frame}
-              
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-\end \expandafter \@gobble \beamer@begin@stack 
-! Paragraph ended before \beamer@push@begins was complete.
+! Missing \endcsname inserted.
 <to be read again> 
-\par 
-l.82 \end{frame}
-              
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-)
-Runaway argument?
- 
-! File ended while scanning use of \frame.
-<inserted text> 
-\par 
-<*> wwwww.tex
+\end/ 
+l.83 	\end{}
           
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
 
-! Emergency stop.
-<*> wwwww.tex
+! TeX capacity exceeded, sorry [input stack size=5000].
+\use_ii:nn #1#2->#2
+                   
+l.83 	\end{}
           
-*** (job aborted, no legal \end found)
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
 
 
 
 Here is how much of LuaTeX's memory you used:
- 24054 strings out of 477805
- 100000,794899 words of node,token memory allocated 4462 words of node memory still in use:
+ 24055 strings out of 477805
+ 100000,794899 words of node,token memory allocated 4464 words of node memory still in use:
    53 hlist, 9 vlist, 5 rule, 15 disc, 6 local_par, 1 dir, 114 glue, 42 kern, 31
- penalty, 292 glyph, 61 glue_spec, 5 write, 11 pdf_literal, 1 pdf_dest, 18 pdf_c
-olorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 2:28,3:436,4:175,5:179,6:45,7:1091,8:72,9:354,10:18,11:37
- 43550 multiletter control sequences out of 65536+600000
+ penalty, 292 glyph, 61 glue_spec, 1 if_stack, 5 write, 11 pdf_literal, 1 pdf_de
+st, 18 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 2:27,3:436,4:175,5:179,6:45,7:1091,8:72,9:354,10:18,11:37
+ 43551 multiletter control sequences out of 65536+600000
  39 fonts using 1624951 bytes
- 99i,15n,98p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 5000i,15n,5001p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
