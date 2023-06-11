@@ -835,16 +835,27 @@ warning  (pdf backend): ignoring duplicate destination with the name 'www'
 [9
 
 <./screenshot002.png>]
-! Undefined control sequence.
-<recently read> \incl 
-      
+Runaway argument?
+{
+! Paragraph ended before \Gin@ii was complete.
+<to be read again> 
+\par 
 l.85 \end{frame}
               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+\reserved@c ...iginal \includegraphics [{}]{\par }
+                                                  
+l.85 \end{frame}
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
 [10
 
@@ -869,13 +880,13 @@ Package rerunfilecheck Info: File `wwwww.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24094 strings out of 477805
+ 24093 strings out of 477805
  100000,794899 words of node,token memory allocated
  2788 words of node memory still in use:
    60 hlist, 13 vlist, 6 rule, 6 local_par, 105 glue, 1 kern, 13 penalty, 77 gly
 ph, 61 glue_spec, 4 write, 92 pdf_literal, 16 pdf_colorstack nodes
    avail lists: 2:28,3:409,4:177,5:221,6:45,7:1315,8:73,9:372,10:18,11:52
- 43577 multiletter control sequences out of 65536+600000
+ 43576 multiletter control sequences out of 65536+600000
  39 fonts using 1624951 bytes
  99i,15n,98p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fo
