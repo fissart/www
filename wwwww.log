@@ -848,108 +848,32 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-! Undefined control sequence.
-\insertblocktitle ->\en 
-                        
-l.84 
-   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Missing \endcsname inserted.
+<to be read again> 
+\end/ 
+l.83 	\end{
+         blo
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
 
-
-! LaTeX Error: \begin{minipage} on input line 84 ended by \end{beamer}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 \end{beamer}
-               
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-\tf@nav=\write6
-
-\openout6 = wwwww.nav
-\tf@toc=\write7
-
-\openout7 = wwwww.toc
-\tf@snm=\write8
-
-\openout8 = wwwww.snm
-
-! LaTeX Error: \begin{minipage} on input line 84 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \end{document}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-(./wwwww.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `wwwww.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-! You can't use `\end' in internal vertical mode.
-\enddocument ...cument/end}\deadcycles \z@ \@@end 
-                                                  
-l.91 \end{document}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn''t ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{minipage} on input line 84 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \end{document}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-}
-l.91 \end{document}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-)
-! Emergency stop.
-<*> wwwww.tex
-          
-*** (job aborted, no legal \end found)
+! TeX capacity exceeded, sorry [input stack size=5000].
+\use_ii:nn #1#2->#2
+                   
+l.83 	\end{
+         blo
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
 
 
 
 Here is how much of LuaTeX's memory you used:
- 24076 strings out of 477805
- 100000,794899 words of node,token memory allocated 4846 words of node memory still in use:
-   68 hlist, 9 vlist, 5 rule, 15 disc, 6 local_par, 3 dir, 128 glue, 45 kern, 34
- penalty, 297 glyph, 62 glue_spec, 2 temp, 7 write, 28 pdf_literal, 2 pdf_dest, 
-20 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 2:26,3:414,4:173,5:182,6:45,7:1090,8:71,9:357,10:18,11:37
- 43562 multiletter control sequences out of 65536+600000
+ 24064 strings out of 477805
+ 100000,794899 words of node,token memory allocated 4699 words of node memory still in use:
+   61 hlist, 9 vlist, 5 rule, 15 disc, 6 local_par, 4 dir, 117 glue, 45 kern, 34
+ penalty, 297 glyph, 69 glue_spec, 3 temp, 7 write, 13 pdf_literal, 2 pdf_dest, 
+19 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 2:25,3:429,4:174,5:174,6:45,7:1101,8:71,9:364,10:18,11:37
+ 43561 multiletter control sequences out of 65536+600000
  39 fonts using 1624951 bytes
- 99i,15n,98p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 5000i,15n,4999p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
