@@ -834,19 +834,7 @@ Package luatex.def Info: screenshot002.png  used on input line 75.
 warning  (pdf backend): ignoring duplicate destination with the name 'www'
 [9
 
-<./screenshot002.png>]
-! Undefined control sequence.
-\beamer@doifinframe ...uation} w_w \int _1^2\righ 
-                                                  \end {equation} \end {beam...
-l.81 \end{frame}
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[10
+<./screenshot002.png>] [10
 
 ] [11
 
@@ -869,13 +857,13 @@ Package rerunfilecheck Info: File `wwwww.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24094 strings out of 477805
+ 24093 strings out of 477805
  100000,794899 words of node,token memory allocated
  2788 words of node memory still in use:
    60 hlist, 13 vlist, 6 rule, 6 local_par, 105 glue, 1 kern, 13 penalty, 77 gly
 ph, 61 glue_spec, 4 write, 92 pdf_literal, 16 pdf_colorstack nodes
    avail lists: 2:28,3:409,4:177,5:221,6:45,7:1315,8:73,9:372,10:18,11:52
- 43577 multiletter control sequences out of 65536+600000
+ 43576 multiletter control sequences out of 65536+600000
  39 fonts using 1624951 bytes
  99i,15n,98p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fo
@@ -883,12 +871,13 @@ nts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/font
-s/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb>
-Output written on wwwww.pdf (11 pages, 211519 bytes).
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb>
+Output written on wwwww.pdf (11 pages, 218697 bytes).
 
-PDF statistics: 393 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
+PDF statistics: 397 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
  27 named destinations out of 1000 (max. 131072)
  186 words of extra memory for PDF output out of 10000 (max. 100000000)
 
