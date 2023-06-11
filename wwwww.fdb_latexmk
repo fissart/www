@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1686449707 "wwwww.tex" "wwwww.pdf" "wwwww" 1686449707
+["lualatex"] 1686449711 "wwwww.tex" "wwwww.pdf" "wwwww" 1686449711
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -202,12 +202,13 @@
   "/usr/share/texmf/tex/latex/lm/ot1lmss.fd" 1256929440 1655 27274ffd69942383838a2081fd5be3d1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1686447347 77930 dad7a7a153c57be8d26b82384a2548e8 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1686420764 4555353 8c35c90c8c85f39488f1395e9a268786 ""
+  "<" 0 -1 0 ""
   "screenshot001.png" 1686446977 39040 c3e30d9793d2e43dee787e69d2b4ef3e ""
   "screenshot002.png" 1686446977 35062 15239f96d7b097dfe86ab5f67dbd5549 ""
-  "wwwww.aux" 1686449705 3175 4fb75a331b65760dcf382f8df07ea4b0 "lualatex"
-  "wwwww.nav" 1686449705 1202 a971439ba5eedf62b158aa4c3f07763d "lualatex"
-  "wwwww.out" 1686449705 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "wwwww.tex" 1686449707 2012 0127cb29bd21064728fdba1c43079ca1 ""
+  "wwwww.aux" 1686449709 3175 4fb75a331b65760dcf382f8df07ea4b0 "lualatex"
+  "wwwww.nav" 1686449709 1202 a971439ba5eedf62b158aa4c3f07763d "lualatex"
+  "wwwww.out" 1686449708 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "wwwww.tex" 1686449709 2013 875e9269a41fd5e279180b4f89874d43 ""
   (generated)
   "wwwww.aux"
   "wwwww.log"
