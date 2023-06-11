@@ -825,7 +825,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'key'
 [8
 
 ]
-<screenshot002.png, id=265, 155.07938pt x 96.36pt>
+<screenshot002.png, id=264, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
 Package luatex.def Info: screenshot002.png  used on input line 78.
@@ -834,20 +834,132 @@ Package luatex.def Info: screenshot002.png  used on input line 78.
 warning  (pdf backend): ignoring duplicate destination with the name 'www'
 [9
 
-<./screenshot002.png>])
-Runaway argument?
-\@kernel@before@enddocument \UseOneTimeHook {enddocument}\@kernel@after@enddocu
-ment \ETC.
-! File ended while scanning use of \beamer@collect@@body.
-<inserted text> 
-\par 
-<*> wwwww.tex
-          
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+<./screenshot002.png>]
+! Extra }, or forgotten \endgroup.
+\endframe ->\egroup 
+                    \begingroup \def \@currenvir {frame}
+l.89 \end{frame}
+              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+
+! LaTeX Error: \begin{minipage} on input line 89 ended by \end{beamer@framepaus
+es}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \end{frame}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{minipage} on input line 89 ended by \end{beamer@frameslid
+e}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \end{frame}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Improper \prevdepth.
+\newpage ...everypar {}\fi \par \ifdim \prevdepth 
+                                                  >\z@ \vskip -\ifdim \prevd...
+l.89 \end{frame}
+              
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.89 \end{frame}
+              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+\tf@nav=\write6
+
+\openout6 = wwwww.nav
+\tf@toc=\write7
+
+\openout7 = wwwww.toc
+\tf@snm=\write8
+
+\openout8 = wwwww.snm
+
+! LaTeX Error: \begin{beamerboxesrounded} on input line 89 ended by \end{docume
+nt}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \end{document}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(./wwwww.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `wwwww.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+! You can't use `\end' in internal vertical mode.
+\enddocument ...cument/end}\deadcycles \z@ \@@end 
+                                                  
+l.93 \end{document}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn''t ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{beamerboxesrounded} on input line 89 ended by \end{docume
+nt}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \end{document}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.93 \end{document}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
 ! Emergency stop.
 <*> wwwww.tex
           
@@ -856,13 +968,12 @@ you'd better type `E' or `X' now and fix your file.
 
 
 Here is how much of LuaTeX's memory you used:
- 24052 strings out of 477805
- 100000,794899 words of node,token memory allocated 4596 words of node memory still in use:
-   59 hlist, 9 vlist, 5 rule, 15 disc, 6 local_par, 1 dir, 115 glue, 45 kern, 34
- penalty, 297 glyph, 61 glue_spec, 7 write, 11 pdf_literal, 2 pdf_dest, 18 pdf_c
-olorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 2:28,3:431,4:175,5:185,6:45,7:1103,8:71,9:366,10:18,11:37
- 43548 multiletter control sequences out of 65536+600000
+ 24081 strings out of 477805
+ 100000,794899 words of node,token memory allocated 2202 words of node memory still in use:
+   50 hlist, 15 vlist, 6 rule, 4 local_par, 2 dir, 81 glue, 1 kern, 19 penalty, 
+37 glyph, 62 glue_spec, 1 temp, 5 write, 64 pdf_literal, 14 pdf_colorstack nodes
+   avail lists: 2:27,3:398,4:179,5:227,6:47,7:1397,8:73,9:368,10:18,11:52
+ 43567 multiletter control sequences out of 65536+600000
  39 fonts using 1624951 bytes
- 99i,15n,98p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,15n,98p,401b,689s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
