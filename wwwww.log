@@ -836,8 +836,9 @@ warning  (pdf backend): ignoring duplicate destination with the name 'www'
 
 <./screenshot002.png>])
 Runaway argument?
- \begin {figu \end {frame} \par \begin {frame}{wwwwwwwwwwwwwwwwww} \begin \ETC.
-! File ended while scanning use of \frame.
+\@kernel@before@enddocument \UseOneTimeHook {enddocument}\@kernel@after@enddocu
+ment \ETC.
+! File ended while scanning use of \beamer@collect@@body.
 <inserted text> 
 \par 
 <*> wwwww.tex
