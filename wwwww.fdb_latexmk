@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1686449563 "wwwww.tex" "wwwww.pdf" "wwwww" 1686449565
+["lualatex"] 1686449571 "wwwww.tex" "wwwww.pdf" "wwwww" 1686449572
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -203,10 +203,10 @@
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1686420764 4555353 8c35c90c8c85f39488f1395e9a268786 ""
   "screenshot001.png" 1686446977 39040 c3e30d9793d2e43dee787e69d2b4ef3e ""
   "screenshot002.png" 1686446977 35062 15239f96d7b097dfe86ab5f67dbd5549 ""
-  "wwwww.aux" 1686449565 3175 4fb75a331b65760dcf382f8df07ea4b0 "lualatex"
-  "wwwww.nav" 1686449565 1202 a971439ba5eedf62b158aa4c3f07763d "lualatex"
-  "wwwww.out" 1686449564 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "wwwww.tex" 1686449562 1923 187253ed8631fac7a0e060f89ee96e35 ""
+  "wwwww.aux" 1686449572 3175 4fb75a331b65760dcf382f8df07ea4b0 "lualatex"
+  "wwwww.nav" 1686449572 1202 a971439ba5eedf62b158aa4c3f07763d "lualatex"
+  "wwwww.out" 1686449571 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "wwwww.tex" 1686449570 1928 3a9b75e9ef2fd2b7da68f4f49ce603e0 ""
   (generated)
   "wwwww.aux"
   "wwwww.log"
