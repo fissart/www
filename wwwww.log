@@ -825,7 +825,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'key'
 [8
 
 ]
-<screenshot002.png, id=264, 155.07938pt x 96.36pt>
+<screenshot002.png, id=265, 155.07938pt x 96.36pt>
 File: screenshot002.png Graphic file (type png)
 <use screenshot002.png>
 Package luatex.def Info: screenshot002.png  used on input line 78.
@@ -834,67 +834,9 @@ Package luatex.def Info: screenshot002.png  used on input line 78.
 warning  (pdf backend): ignoring duplicate destination with the name 'www'
 [9
 
-<./screenshot002.png>]
-! Extra }, or forgotten \endgroup.
-\endframe ->\egroup 
-                    \begingroup \def \@currenvir {frame}
-l.89 \end{frame}
-              
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+<./screenshot002.png>] [10
 
-
-! LaTeX Error: \begin{minipage} on input line 89 ended by \end{beamer@framepaus
-es}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.89 \end{frame}
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{minipage} on input line 89 ended by \end{beamer@frameslid
-e}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.89 \end{frame}
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Improper \prevdepth.
-\newpage ...everypar {}\fi \par \ifdim \prevdepth 
-                                                  >\z@ \vskip -\ifdim \prevd...
-l.89 \end{frame}
-              
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! Missing } inserted.
-<inserted text> 
-}
-l.89 \end{frame}
-              
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
+]
 \tf@nav=\write6
 
 \openout6 = wwwww.nav
@@ -904,76 +846,35 @@ my insertion and my current dilemma will both disappear.
 \tf@snm=\write8
 
 \openout8 = wwwww.snm
-
-! LaTeX Error: \begin{beamerboxesrounded} on input line 89 ended by \end{docume
-nt}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 \end{document}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 (./wwwww.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `wwwww.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-! You can't use `\end' in internal vertical mode.
-\enddocument ...cument/end}\deadcycles \z@ \@@end 
-                                                  
-l.93 \end{document}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn''t ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{beamerboxesrounded} on input line 89 ended by \end{docume
-nt}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 \end{document}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-}
-l.93 \end{document}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
 )
-! Emergency stop.
-<*> wwwww.tex
-          
-*** (job aborted, no legal \end found)
-
-
 
 Here is how much of LuaTeX's memory you used:
- 24081 strings out of 477805
- 100000,794899 words of node,token memory allocated 2202 words of node memory still in use:
-   50 hlist, 15 vlist, 6 rule, 4 local_par, 2 dir, 81 glue, 1 kern, 19 penalty, 
-37 glyph, 62 glue_spec, 1 temp, 5 write, 64 pdf_literal, 14 pdf_colorstack nodes
-   avail lists: 2:27,3:398,4:179,5:227,6:47,7:1397,8:73,9:368,10:18,11:52
- 43567 multiletter control sequences out of 65536+600000
+ 24091 strings out of 477805
+ 100000,794899 words of node,token memory allocated
+ 2830 words of node memory still in use:
+   60 hlist, 13 vlist, 6 rule, 6 local_par, 105 glue, 1 kern, 13 penalty, 83 gly
+ph, 61 glue_spec, 4 write, 92 pdf_literal, 16 pdf_colorstack nodes
+   avail lists: 2:28,3:409,4:177,5:230,6:45,7:1327,8:73,9:372,10:18,11:52
+ 43575 multiletter control sequences out of 65536+600000
  39 fonts using 1624951 bytes
- 99i,15n,98p,401b,689s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 99i,15n,98p,401b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/font
+s/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb>
+Output written on wwwww.pdf (10 pages, 209962 bytes).
+
+PDF statistics: 365 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
+ 26 named destinations out of 1000 (max. 131072)
+ 186 words of extra memory for PDF output out of 10000 (max. 100000000)
+
